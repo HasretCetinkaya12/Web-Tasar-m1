@@ -1,0 +1,11 @@
+.bg-peach {
+    background-color:#ae9e8c;
+
+}
+.navbar {
+    padding-bottom: 10px; 
+    border-bottom: 2px solid black; 
+}
+html, body {
+    height: 100%;
+}
